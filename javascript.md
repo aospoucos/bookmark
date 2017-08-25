@@ -1,0 +1,1 @@
+- https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews
